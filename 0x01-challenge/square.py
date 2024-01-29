@@ -2,8 +2,8 @@
 """ Class Square with some Calculation Methods"""
 
 
-class square():
-
+class Square():
+    """ Square Class"""
     width = 0
     height = 0
 
